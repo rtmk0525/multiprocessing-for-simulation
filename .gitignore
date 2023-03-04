@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# result folder
+.DS_Store
+results
+poetry.lock
+pyproject.toml

@@ -1,0 +1,4 @@
+model_params:
+  name: rectangle
+  length: 1.0
+  width: 2.0

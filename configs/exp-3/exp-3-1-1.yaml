@@ -1,0 +1,4 @@
+model_params:
+  name: triangle
+  base: 1.0
+  height: 1.0
